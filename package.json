@@ -21,6 +21,8 @@
     "express": "^4.17.1",
     "http-status": "^1.4.2",
     "mysql2": "^2.1.0",
-    "sequelize": "^6.3.5"
+    "sequelize": "^6.3.5",
+    "sequelize-msnodesqlv8": "^0.2.6-beta.8",
+    "tedious": "^9.2.1"
   }
 }

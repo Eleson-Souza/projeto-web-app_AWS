@@ -2,12 +2,12 @@
 module.exports = {
     development: {
         database: {
-            host: 'ls-20024416c34ba6dbfa3923d3f3f120e6e3a030c7.ceefo25bexkd.us-east-1.rds.amazonaws.com',
+            host: 'ls-46ef940c07de2ea00c60c4235d4d4d2ec3089b04.crlizib8w9lo.us-east-1.rds.amazonaws.com            ',
             port: 3306,
             name: 'db_usuario',
             dialect: 'mysql',
             user: 'dbmasteruser',
-            password: '-.CCUH04CY5Nt9H?cNb^$,`ertl(5j{R'
+            password: '._8KlK]Z#15k)G``&xZA9*yHx+p_fj(}'
         }
     },
     production: {

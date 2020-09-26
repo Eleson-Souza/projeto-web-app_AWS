@@ -2,7 +2,7 @@
 module.exports = {
     development: {
         database: {
-            host: 'ls-46ef940c07de2ea00c60c4235d4d4d2ec3089b04.crlizib8w9lo.us-east-1.rds.amazonaws.com            ',
+            host: 'ls-46ef940c07de2ea00c60c4235d4d4d2ec3089b04.crlizib8w9lo.us-east-1.rds.amazonaws.com',
             port: 3306,
             name: 'db_usuario',
             dialect: 'mysql',
